@@ -4,3 +4,31 @@
     height: auto;
     border:  rgb(7, 1, 1) 5px;
 }
+
+/* .container {
+    padding-top: 75%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50% ,-50%);
+    color: antiquewhite;
+    
+} */
+
+
+.welcome {
+
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    transform: translate(-50% ,-50%);
+    color: red;
+
+}
+
+.no-bullet {
+
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
